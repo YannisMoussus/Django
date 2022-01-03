@@ -10,7 +10,11 @@ La suite de cette magnifique documentation, va vous aider à installer notre pok
 
 Étape 1 : Ouvrez le dossier soit dans PyCharm ou alors sur Visual Studio Code.
 
-Étape 2 : Vérifiez bien que le projet se présente ainsi au niveau du dossier Django et également au niveau du dossier myapp :
+Cette documentation est faite sous Windows 10 donc il se peut que les commandes suivantes ne soient pas adapté.
+
+Étape 2 :
+
+
 
 Étape 3 : Ouvrez le terminal de PyCharm ou de Visual Studio Code
 
