@@ -1,4 +1,4 @@
-PokéGo
+# PokéGo
 
 PokéGo qu’est-ce que c’est ? Et bien c’est notre pokédex fait à partir de Django. Vous vous demandez sûrement pourquoi Django ? 
 Le framework Django nous a été présenté en cours et nous avons aussi pu lire ceci :
